@@ -9,6 +9,7 @@
 
 <script>
 export default {
+	name: "App",
 	data() {
 		return {
 			friends: [
@@ -30,4 +31,6 @@ export default {
 };
 </script>
 
-<style></style>
+<style>
+
+</style>
