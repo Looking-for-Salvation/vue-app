@@ -2,7 +2,7 @@
 	<section>
 		<h2>Friends</h2>
 		<ul>
-			<li></li>
+			<friend-contact></friend-contact>
 		</ul>
 	</section>
 </template>
@@ -31,6 +31,4 @@ export default {
 };
 </script>
 
-<style>
-
-</style>
+<style></style>
